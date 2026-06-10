@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🎬 Vissora AI
 
 **Vissora AI** is an AI-powered video and meeting intelligence assistant that transforms recordings into actionable insights. It automatically transcribes audio, generates concise summaries, extracts key decisions and action items, and enables users to interact with meeting content through a Retrieval-Augmented Generation (RAG) chatbot.
@@ -283,6 +282,4 @@ AI & Machine Learning Enthusiast focused on building practical AI-powered applic
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
 =======
-# Vissora-AI
-Vissora AI** is an AI-powered video and meeting intelligence assistant that transforms recordings into actionable insights. It automatically transcribes audio, generates concise summaries, extracts key decisions and action items, and enables users to interact with meeting content through a Retrieval-Augmented Generation (RAG) chatbot.
->>>>>>> fcbb67a7da634639abb398850b6e319b17de55b9
+
