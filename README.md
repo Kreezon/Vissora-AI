@@ -240,7 +240,7 @@ python main.py
 
 ### Meeting Insights & RAG Chat
 
-![Vissora AI Results](Output Pics/Chat.png)
+![Vissora AI Results](https://github.com/Kreezon/Vissora-AI/blob/main/Output%20Pics/Chat.png)
 
 ---
 
