@@ -238,9 +238,11 @@ python main.py
 
 ![Vissora AI Dashboard](Output Pics/Main.png)
 
-### Meeting Insights & RAG Chat
 
-![Vissora AI Results](https://github.com/Kreezon/Vissora-AI/blob/main/Output%20Pics/Chat.png)
+
+## Chat Interface
+
+![Chat Interface](https://raw.githubusercontent.com/Kreezon/Vissora-AI/main/Output%20Pics/Chat.png)
 
 ---
 
