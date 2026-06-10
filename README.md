@@ -236,7 +236,8 @@ python main.py
 
 ### Dashboard Overview
 
-![Vissora AI Dashboard](Output Pics/Main.png)
+
+![Main Dashboard](https://raw.githubusercontent.com/Kreezon/Vissora-AI/main/Output%20Pics/Main.png)
 
 
 
