@@ -3,9 +3,10 @@
 # AI Video Assistant
 
 # Python 3.10+
+
 pip>=25.0
 setuptools>=70.0.0
-wheel
+wheel>=0.45.0
 
 # =========================
 
